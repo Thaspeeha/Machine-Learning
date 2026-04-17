@@ -2,12 +2,6 @@
 
 # 📘 Machine Learning Assignment 1 – Weekly Progress (W3–W11)
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-CNN-red)
-![Status](https://img.shields.io/badge/Status-Completed-green)
-
-
 <p align="left">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
@@ -17,6 +11,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="40"/>
+![Status](https://img.shields.io/badge/Status-Completed-green)
 
 </p>
 
