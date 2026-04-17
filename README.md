@@ -11,9 +11,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="40"/>
-![Status](https://img.shields.io/badge/Status-Completed-green)
 
 </p>
+
+![Status](https://img.shields.io/badge/Status-Completed-green)
 
 ## 📌 Table of Contents
 - [🧠 Week 3 – K-Means Clustering](#-week-3--k-means-clustering)
