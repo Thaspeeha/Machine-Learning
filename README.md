@@ -7,6 +7,19 @@
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-CNN-red)
 ![Status](https://img.shields.io/badge/Status-Completed-green)
 
+## 🚀 Tools & Technologies
+
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="40"/>
+
+</p>
 
 ## 📌 Table of Contents
 - [🧠 Week 3 – K-Means Clustering](#-week-3--k-means-clustering)
@@ -78,18 +91,3 @@
 ## 📌 Summary
 This assignment demonstrates core Machine Learning concepts including clustering, classification, regression, neural networks, and deep learning. It highlights model evaluation, hyperparameter tuning, and performance comparison across algorithms.
 
-
-## 🚀 Tools & Technologies
-## 🚀 Tools & Technologies
-
-<p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="40"/>
-
-</p>
