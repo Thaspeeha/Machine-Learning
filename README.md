@@ -7,7 +7,6 @@
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-CNN-red)
 ![Status](https://img.shields.io/badge/Status-Completed-green)
 
-## 🚀 Tools & Technologies
 
 <p align="left">
 
