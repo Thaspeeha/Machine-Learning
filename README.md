@@ -1,6 +1,6 @@
 # Machine-Learning
 
-# 📘 Assignment 1 – Weekly Progress
+# 📘 Assignment 1
 
 <p align="left">
 
