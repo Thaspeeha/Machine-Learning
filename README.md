@@ -14,8 +14,6 @@
 
 </p>
 
-![Status](https://img.shields.io/badge/Status-Completed-green)
-
 ## 📌 Table of Contents
 - [🧠 Week 3 – K-Means Clustering](#-week-3--k-means-clustering)
 - [📊 Week 4 – Model Evaluation](#-week-4--model-evaluation-knn--classification-metrics)
