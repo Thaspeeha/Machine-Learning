@@ -84,3 +84,6 @@
 ## 📌 Summary
 This assignment demonstrates core Machine Learning concepts including clustering, classification, regression, neural networks, and deep learning. It highlights model evaluation, hyperparameter tuning, and performance comparison across algorithms.
 
+## 📜 License
+This project is licensed for **educational and research purposes only**.  
+Commercial use is **not permitted** without prior authorization.
